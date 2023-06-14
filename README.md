@@ -25,25 +25,25 @@ Form fields can be reset.
 
 __Technologies and Concepts Used :__
 
-Java: The project is developed using the Java programming language.
+Java - The project is developed using the Java programming language.
 
-Swing: The Swing library is used for creating the graphical user interface (GUI) of the registration form.
+Swing - The Swing library is used for creating the graphical user interface (GUI) of the registration form.
 
-Inheritance: The Window class extends the JFrame class, utilizing inheritance to customize the frame for the registration form.
+Inheritance - The Window class extends the JFrame class, utilizing inheritance to customize the frame for the registration form.
 
-JPanel: The Mainpanel is a JPanel that contains the form elements and is added to the main frame.
+JPanel - The Mainpanel is a JPanel that contains the form elements and is added to the main frame.
 
-JLabel: Various JLabel components are used to display text labels for the form fields and headings.
+JLabel - Various JLabel components are used to display text labels for the form fields and headings.
 
-JTextField: JTextField components are used for user input fields such as first name, last name, and email.
+JTextField - JTextField components are used for user input fields such as first name, last name, and email.
 
-JPasswordField: The JPasswordField is used to securely capture the user's password.
+JPasswordField - The JPasswordField is used to securely capture the user's password.
 
-JButton: The submitbutton and resetbutton are JButton components for submitting and resetting the form, respectively.
+JButton - The submitbutton and resetbutton are JButton components for submitting and resetting the form, respectively.
 
-ActionListener: ActionListener interfaces are implemented to handle button click events and perform actions such as form submission and field clearing.
+ActionListener - ActionListener interfaces are implemented to handle button click events and perform actions such as form submission and field clearing.
 
-DialogUtils: The DialogUtils class is used to display a dialog box showing a success message after form submission using JOptionPane.
+DialogUtils - The DialogUtils class is used to display a dialog box showing a success message after form submission using JOptionPane.
 
 
 __Contributing__:
