@@ -1,4 +1,4 @@
-Registration Form
+__Registration Form__
 
 This is a simple registration form application built using Java and Swing. It allows users to enter their personal information and submit the form. The application displays the captured values and shows a success message using a dialog box.
 
@@ -13,7 +13,7 @@ __Usage__ :
 
 Upon running the application, a registration form window will appear. Users can enter their first name, last name, email, and password. Clicking the "Submit" button will display the captured values and show a success message using a dialog box. The "Reset" button can be used to clear the form fields.
 
-Features : 
+**Features** : 
 
 Simple and intuitive user interface.
 Captures and displays user information.
