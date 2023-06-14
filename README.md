@@ -13,7 +13,7 @@ __Usage__ :
 
 Upon running the application, a registration form window will appear. Users can enter their first name, last name, email, and password. Clicking the "Submit" button will display the captured values and show a success message using a dialog box. The "Reset" button can be used to clear the form fields.
 
-**Features : **
+__Features__ :
 
 Simple and intuitive user interface.
 
@@ -46,6 +46,6 @@ ActionListener: ActionListener interfaces are implemented to handle button click
 DialogUtils: The DialogUtils class is used to display a dialog box showing a success message after form submission using JOptionPane.
 
 
-Contributing:
+__Contributing__:
 
 Contributions to this project are welcome. If you have any ideas, suggestions, or bug fixes, please feel free to submit a pull request or open an issue.
