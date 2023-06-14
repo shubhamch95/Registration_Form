@@ -13,14 +13,17 @@ __Usage__ :
 
 Upon running the application, a registration form window will appear. Users can enter their first name, last name, email, and password. Clicking the "Submit" button will display the captured values and show a success message using a dialog box. The "Reset" button can be used to clear the form fields.
 
-**Features** : 
+**Features : **
 
 Simple and intuitive user interface.
+
 Captures and displays user information.
+
 Success message displayed using a dialog box.
+
 Form fields can be reset.
 
-Technologies and Concepts Used : 
+__Technologies and Concepts Used :__
 
 Java: The project is developed using the Java programming language.
 
