@@ -1,4 +1,5 @@
 Registration Form
+
 This is a simple registration form application built using Java and Swing. It allows users to enter their personal information and submit the form. The application displays the captured values and shows a success message using a dialog box.
 
 Table of Contents
@@ -8,6 +9,7 @@ Features
 Contributing
 License
 Installation
+
 To run the application locally, follow these steps:
 
 Clone the repository to your local machine.
